@@ -1,6 +1,6 @@
 package _0_petsample
 
-import com.polstech.kotlinsamples.petSample.Pet
+import com.polstech.kotlinsamples._0_petSample.Pet
 
 /**
  * Created by prashantspol on 11/9/2017.
