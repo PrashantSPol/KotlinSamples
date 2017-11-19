@@ -3,6 +3,8 @@ package com.polstech.kotlinsamples;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import _0_petsample.Abc;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override

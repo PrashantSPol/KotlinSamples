@@ -7,8 +7,8 @@ import _1_variables.CarKt;
  */
 
 public class Car {
-    String color;
-    Boolean dieselEngine;
+    private String color;
+    private Boolean dieselEngine;
 
     public Car(String color, Boolean dieselEngine) {
         this.color = color;
